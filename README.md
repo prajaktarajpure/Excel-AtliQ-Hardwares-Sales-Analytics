@@ -8,7 +8,7 @@
 ### Role of Reports:
 #### Two primary reports are generated as part of this project:
 + *Customer Netsales Performance:* This report compares netsales over three years and analyzes the percentage change between 2021 and 2020 netsales. It provides insights into customer purchasing patterns and trends.(https://github.com/prajaktarajpure/Excel-AtliQ-Hardwares-Sales-Analytics/blob/main/Customer%20Netsales%20Performance%20Report.pdf)
-+ *Market Performance vs Target:* This report evaluates the netsales of different countries over three years and compares them against the sales targets for 2021. It helps in assessing the performance of each market  and identifying areas where targets are met or need improvement.
++ *Market Performance vs Target:* This report evaluates the netsales of different countries over three years and compares them against the sales targets for 2021. It helps in assessing the performance of each market  and identifying areas where targets are met or need improvement.(https://github.com/prajaktarajpure/Excel-AtliQ-Hardwares-Sales-Analytics/blob/main/Market%20Performance%20Vs%20Target.pdf)
 ### Technical & Soft Skills:
 __Technical Skills:__
 - Proficiency in Excel tools such as Power Query and Power Pivot for data manipulation and modeling.
